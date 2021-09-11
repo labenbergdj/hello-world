@@ -1,2 +1,3 @@
 # hello-world
-Storage area for learning Python
+First time using Github. Mechanical engineer trying to diversify my skillset.
+Going to start by learning Python.
